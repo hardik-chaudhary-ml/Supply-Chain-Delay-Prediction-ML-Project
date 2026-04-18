@@ -168,9 +168,8 @@ AUC Score| 0.82
 
 
 
-git clone https://github.com/your-username/Supply-Chain-Delay-Prediction-ML.git
-
-cd Supply-Chain-Delay-Prediction-ML
+git clone https://github.com/hardik-chaudhary-ml/Supply-Chain-Delay-Prediction-ML-Project.git
+upply-Chain-Delay-Prediction-ML-Project
 
 
 
