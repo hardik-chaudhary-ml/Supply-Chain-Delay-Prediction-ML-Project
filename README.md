@@ -1,4 +1,6 @@
-🚚 Supply Chain Delay Prediction using Machine Learning
+# 🚀 Supply Chain Delay Prediction using Machine Learning
+
+> Predicting late deliveries using ML models like Logistic Regression, Decision Tree, and Random Forest.
 
 
 
@@ -104,7 +106,13 @@ Supply-Chain-Delay-Prediction-ML/
 
 \---
 
+## 📊 Results
 
+- Random Forest achieved highest accuracy
+- Model evaluated using Precision, Recall, F1-score, ROC-AUC
+- Class imbalance handled using SMOTE
+
+\---
 
 ⚙️ Model Used
 
