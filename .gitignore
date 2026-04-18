@@ -1,0 +1,13 @@
+ # Ignore dataset
+data/DataCoSupplyDataset.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+_pycache_/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
